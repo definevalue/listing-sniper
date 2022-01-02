@@ -1,9 +1,13 @@
 
-# CoinMarketCap and CoinGecko Listing Sniper Bot
+# DO NOT USE THIS
 
+this was forked and decompiled which lead to a VPS if you lost crypto to this fraud contact https://krinternetlaw.com/online-case-submission 
+
+
+```
 Join our community: https://t.me/drfurrbots
 
-### Donation Address: 0x352E51b176b156c276A8EB8f57c974E12c75106B
+### Donation Address: 0xyour VPS sucks
 
 ## Requirements
 * Telegram Account
@@ -21,7 +25,7 @@ Join our community: https://t.me/drfurrbots
  - The binaries already have the Telegram API configured and are ready to go. It's against Telegram's terms of service to share these in plain text, so if you are building from source you will need to generate your own API creds.
 
 - RENAME the "env.example" file to ".env" and edit it.
-```
+
 # Your APP ID From my.telegram.org *OPTIONAL IF USING PRECOMPILED VERSION*
 APP_ID=
 # Your APP HASH From my.telegram.org *OPTIONAL IF USING PRECOMPILED VERSION*
@@ -49,7 +53,6 @@ WHITELIST_ALWAYS=true
 WHITELIST_PURCHASEAMOUNT="0.05"
 # Comma seperated list of tokens to whitelist
 WHITELIST=
-```
 
 ## Usage
 Open the command prompt or terminal (depending on your OS) and change to the directory where you extracted the bot, then run `listingsniper`. 
@@ -69,3 +72,4 @@ The first time you run the bot, you will be prompted to login with a telegram ac
 ![grm](https://user-images.githubusercontent.com/94490774/145612514-d9e2b02d-cc89-463f-a51e-62fce222bfd0.png)
 ![ronin](https://user-images.githubusercontent.com/94490774/145612522-30083831-ab44-4351-82fe-79eddd2c6f33.png)
 ![fdm](https://user-images.githubusercontent.com/94490774/145612531-72bbe990-8f45-4a81-8610-672c4e873530.png)
+```
