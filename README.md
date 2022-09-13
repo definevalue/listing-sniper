@@ -1,8 +1,4 @@
-
-# DO NOT USE THIS
-
-this was forked and decompiled which lead to a VPS if you lost crypto to this fraud contact https://krinternetlaw.com/online-case-submission 
-
+WARNING DO NOT USE! This was forked to decompile 
 
 ```
 Join our community: https://t.me/drfurrbots
